@@ -19,7 +19,7 @@ $ pip install -r requirements.txt
 
 
 
-$ python movies.py
+$ python movie.py
 
 
 
